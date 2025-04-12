@@ -19,6 +19,7 @@
 </h4>
 
 ## 🔥 新闻
+- **[2025-04-11]** 🎉 [AAAI-25论文集](https://aaai.org/proceeding/aaai-39-2025/)正式出版！我们的[会议论文](https://ojs.aaai.org/index.php/AAAI/article/view/34188)已收录其中，欢迎阅读和引用！
 - **[2025-03-06]** 🌟 完整的数据集和代码现已正式开源！
 - **[2024-12-11]** ⏫ 我们正在努力将 BearLLM 的代码开源，敬请期待！
 - **[2024-12-10]** 🎉 BearLLM 论文已被第三十九届 AAAI 人工智能会议（[AAAI-25](https://aaai.org/conference/aaai/aaai-25/)）接收。
@@ -128,13 +129,17 @@ python run_demo.py
 如果您在研究中使用了本研究，请引用以下论文：
 
 ```
-@misc{peng2024bearllmpriorknowledgeenhancedbearing,
-      title={BearLLM: A Prior Knowledge-Enhanced Bearing Health Management Framework with Unified Vibration Signal Representation}, 
-      author={Haotian Peng and Jiawei Liu and Jinsong Du and Jie Gao and Wei Wang},
-      year={2024},
-      eprint={2408.11281},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2408.11281}, 
+@article{pengBearLLMPriorKnowledgeEnhanced2025,
+  title = {{{BearLLM}}: {{A Prior Knowledge-Enhanced Bearing Health Management Framework}} with {{Unified Vibration Signal Representation}}},
+  author = {Peng, Haotian and Liu, Jiawei and Du, Jinsong and Gao, Jie and Wang, Wei},
+  year = {2025},
+  month = apr,
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume = {39},
+  number = {19},
+  pages = {19866--19874},
+  issn = {2374-3468},
+  doi = {10.1609/aaai.v39i19.34188},
+  urldate = {2025-04-11},
 }
 ```

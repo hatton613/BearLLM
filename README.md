@@ -19,6 +19,7 @@
 </h4>
 
 ## 🔥 NEWS
+- **[2025-04-11]** 🎉 The [AAAI-25 Proceedings](https://aaai.org/proceeding/aaai-39-2025/) are now officially published! Our [conference paper](https://ojs.aaai.org/index.php/AAAI/article/view/34188) is included. We welcome you to read and cite it!
 - **[2025-03-06]** 🌟 The complete dataset and code are now officially open source!
 - **[2024-12-11]** ⏫ We are now working on making the code of BearLLM public. Stay tuned!
 - **[2024-12-10]** 🎉 The BearLLM paper is accepted by the Thirty-Ninth AAAI Conference on Artificial Intelligence ([AAAI-25](https://aaai.org/conference/aaai/aaai-25/)).
@@ -128,13 +129,17 @@ Fine-tune according to `src/fine_tuning.py`.
 Please cite the following paper if you use this study in your research:
 
 ```
-@misc{peng2024bearllmpriorknowledgeenhancedbearing,
-      title={BearLLM: A Prior Knowledge-Enhanced Bearing Health Management Framework with Unified Vibration Signal Representation}, 
-      author={Haotian Peng and Jiawei Liu and Jinsong Du and Jie Gao and Wei Wang},
-      year={2024},
-      eprint={2408.11281},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2408.11281}, 
+@article{pengBearLLMPriorKnowledgeEnhanced2025,
+  title = {{{BearLLM}}: {{A Prior Knowledge-Enhanced Bearing Health Management Framework}} with {{Unified Vibration Signal Representation}}},
+  author = {Peng, Haotian and Liu, Jiawei and Du, Jinsong and Gao, Jie and Wang, Wei},
+  year = {2025},
+  month = apr,
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume = {39},
+  number = {19},
+  pages = {19866--19874},
+  issn = {2374-3468},
+  doi = {10.1609/aaai.v39i19.34188},
+  urldate = {2025-04-11},
 }
 ```
